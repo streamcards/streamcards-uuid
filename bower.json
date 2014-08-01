@@ -1,14 +1,11 @@
 {
 	"name": "streamcards-uuid",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"authors": [
 		"Jakob Hohlfeld <jakob.hohlfeld@netronaut.de>"
 	],
-	"description": "AngularJS servicefor creating a unique id.",
+	"description": "AngularJS service creating unique ids.",
 	"keywords": [
-		"angularjs,",
-		"uuid,",
-		"service"
 	],
 	"license": "MIT",
 	"ignore": [
@@ -19,7 +16,7 @@
 		"tests"
 	],
 	"dependencies": {
-		"angular":"~1.2.0"
+		"angular":"~1.2.21"
 	},
 	"devDependencies": {
 	}
