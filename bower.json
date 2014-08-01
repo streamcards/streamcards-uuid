@@ -1,23 +1,26 @@
 {
-	"name": "streamcards-uuid",
-	"version": "0.0.1",
-	"authors": [
-		"Jakob Hohlfeld <jakob.hohlfeld@netronaut.de>"
-	],
-	"description": "AngularJS service creating unique ids.",
-	"keywords": [
-	],
-	"license": "MIT",
-	"ignore": [
-		"**/.*",
-		"node_modules",
-		"bower_components",
-		"test",
-		"tests"
-	],
-	"dependencies": {
-		"angular":"~1.2.21"
-	},
-	"devDependencies": {
-	}
+  "name": "streamcards-uuid",
+  "version": "0.0.1",
+  "authors": [
+    "Jakob Hohlfeld <jakob.hohlfeld@netronaut.de>"
+  ],
+  "description": "AngularJS service for creating a unique uuid.",
+  "keywords": [
+    "angular",
+    "service",
+    "uuid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21"
+  },
+  "main": "streamcards-uuid.js",
+  "homepage": "https://github.com/Streamcards/streamcards-uuid"
 }

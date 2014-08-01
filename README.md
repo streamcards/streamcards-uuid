@@ -1,4 +1,4 @@
-# AngularJS servicefor creating a unique id.
+#Service for creating a unique uuid.
 
 To install, simply do
 
